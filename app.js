@@ -1,0 +1,1 @@
+console.log("Static Website deployed via Jenkins CI/CD pipeline 🚀");
